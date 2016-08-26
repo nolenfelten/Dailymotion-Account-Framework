@@ -1,0 +1,44 @@
+# Tor state file last generated on 2016-08-14 18:35:43 local time
+# Other times below are in GMT
+# You *do not* need to edit this file.
+
+EntryGuard metwork 016DD78B2C3A468DDD48AF63F48D25660F93DAAC
+EntryGuardAddedBy 016DD78B2C3A468DDD48AF63F48D25660F93DAAC 0.2.3.25 2016-07-27 15:07:32
+EntryGuardPathBias 32 32
+EntryGuard DinoaurTor2 9B99C72B02AF8E3E5BE3596964F9CACD0090D132
+EntryGuardAddedBy 9B99C72B02AF8E3E5BE3596964F9CACD0090D132 0.2.3.25 2016-08-11 00:53:08
+EntryGuardPathBias 42 42
+EntryGuard germanguy FD5F3AB8BA6885F3C699E788A93770841317FD67
+EntryGuardAddedBy FD5F3AB8BA6885F3C699E788A93770841317FD67 0.2.3.25 2016-08-04 08:48:35
+EntryGuardPathBias 33 33
+EntryGuard Keasbey D19A97D9B4F3E6213BB39582C77ECE60BC9C31DF
+EntryGuardDownSince 2016-08-15 01:25:40 2016-08-15 01:25:40
+EntryGuardAddedBy D19A97D9B4F3E6213BB39582C77ECE60BC9C31DF 0.2.3.25 2016-07-21 17:14:21
+TorVersion Tor 0.2.3.25 (git-17c24b3118224d65)
+LastWritten 2016-08-15 01:35:43
+TotalBuildTimes 114
+CircuitBuildAbandonedCount 7
+CircuitBuildTimeBin 475 1
+CircuitBuildTimeBin 525 15
+CircuitBuildTimeBin 575 13
+CircuitBuildTimeBin 625 29
+CircuitBuildTimeBin 675 5
+CircuitBuildTimeBin 725 4
+CircuitBuildTimeBin 775 8
+CircuitBuildTimeBin 825 6
+CircuitBuildTimeBin 875 2
+CircuitBuildTimeBin 925 4
+CircuitBuildTimeBin 975 1
+CircuitBuildTimeBin 1075 4
+CircuitBuildTimeBin 1325 1
+CircuitBuildTimeBin 1375 1
+CircuitBuildTimeBin 1475 3
+CircuitBuildTimeBin 1525 1
+CircuitBuildTimeBin 1575 2
+CircuitBuildTimeBin 1625 1
+CircuitBuildTimeBin 1725 1
+CircuitBuildTimeBin 1775 1
+CircuitBuildTimeBin 1875 1
+CircuitBuildTimeBin 1975 1
+CircuitBuildTimeBin 2325 1
+CircuitBuildTimeBin 3725 1
