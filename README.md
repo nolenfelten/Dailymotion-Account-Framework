@@ -25,7 +25,7 @@ I came across this image on a forum that really sparked my interest in getting b
 # Operation:
 </center>
 
-The goal was to create many accounts, upload videos, and then use traffic exchange platforms like <a href="https://www.websyndic.com/?ref=996321">Websyndic</a> to generate views.
+The goal was to create many accounts, upload videos, and then use traffic exchange platforms like <a href="https://www.websyndic.com/?ref=996321">Websyndic</a> to generate views. Youtube requires time and commitment to earn revenue from their system. Here all we have to do is fill out a CAPTCHA and verify an email.
 
 <center>
 <h3>Phase 1: Create Accounts</h3>
@@ -36,9 +36,6 @@ Using <a href="http://www.seleniumhq.org/docs/03_webdriver.jsp"?Selenium Webdriv
 From there, I would enter an email address which was composed using an <a href="http://www.unixtimestamp.com/">Unix Timestamp</a> to ensure each was unique. For example: 1472215955. (Don't worry, you can't recover the accounts by brute force :P)
 
 <center><img src="http://i.imgur.com/WVODYxu.png"></center>
-
-I found a neat trick which allowed me to sign up <b>without</b> having to generate the email accounts prior to registration each time.
-Thanks to <a href="https://temp-mail.org/en/">Temp-Mail.org</a>, I could just send an email to the temporary address, then go to <a href="https://temp-mail.org/en/option/change">change email</a> page, and find my verifcation emails waiting for me.
 
 I decided to just do the bloody CAPTCHA's manually, which is what started the GUI. Being able to quickly cue the CAPTCHA's, I figured 1000 accounts was a pretty small goal, and it was.
 
@@ -73,8 +70,10 @@ So, here is the copy and pasted voodoo I found:
 - 15 to 20 videos in your channel to start.
 - Add 1 or 2 videos each week.
 - Upload videos between 4 to 10 minutes.
-- Dailymotion updates earning 2 or 3 times a week.
+- Earnings are updated 2 or 3 times a week.
 - Dailymotion does not pay you for amount of hits you send to your videos, they pay for time a videos is watched.
+- Do not click on ads which appears around your videos because its violate the dailymotion term and condition. dailymotion terminate your account too.
+- 
 </i>
 
 
