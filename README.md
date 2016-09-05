@@ -3,7 +3,6 @@
 </center>
 
 <center><img src="http://i.imgur.com/Qq2vVjP.gif"></center>
-<p><center><img src="http://i.imgur.com/ejldGKW.png"></center></p>
 <p><center><img src="http://i.imgur.com/UjzLa79.png"></center></p>
 
 Dailymotion.com is a video hosting service that is similar to Youtube.
@@ -69,7 +68,7 @@ Using <a href="http://www.seleniumhq.org/docs/03_webdriver.jsp"?Selenium Webdriv
 
 From there, I would enter an email address which was composed using an <a href="http://www.unixtimestamp.com/">Unix Timestamp</a> to ensure each was unique. For example: 1472215955. (Don't worry, you can't recover the accounts by brute force :P)
 
-<center><img src="http://i.imgur.com/WVODYxu.png"></center>
+<p><center><img src="http://i.imgur.com/ejldGKW.png"></center></p>
 
 I decided to just do the bloody CAPTCHA's manually, which is what started the GUI. Being able to quickly cue the CAPTCHA's, I figured 1000 accounts was a pretty small goal, and it was.
 
