@@ -3,6 +3,8 @@
 </center>
 
 <center><img src="http://i.imgur.com/Qq2vVjP.gif"></center>
+<p><center><img src="http://i.imgur.com/ejldGKW.png"></center></p>
+<p><center><img src="http://i.imgur.com/o3hGvAK.png"></center></p>
 
 Dailymotion.com is a video hosting service that is similar to Youtube.
 Users can upload their videos, and get a share of the ad revenue generated when said videos are viewed.
