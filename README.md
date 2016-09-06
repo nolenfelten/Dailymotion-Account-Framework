@@ -64,9 +64,7 @@ PARTNER acknowledges and agrees that 5% (five percent) of the traffic generated 
 <h3>Phase 1: Create Accounts</h3>
 </center>
 
-Using <a href="http://www.seleniumhq.org/docs/03_webdriver.jsp"?Selenium Webdriver</a?, I would control <a href="http://phantomjs.org/">PhantomJS</a> and point the browser to <a href="http://www.dailymotion.com/signin">dailymotion.com/signin</a>.
-
-From there, I would enter an email address which was composed using an <a href="http://www.unixtimestamp.com/">Unix Timestamp</a> to ensure each was unique. For example: 1472215955. (Don't worry, you can't recover the accounts by brute force :P)
+I would enter an email address which was composed using an <a href="http://www.unixtimestamp.com/">Unix Timestamp</a> to ensure each was unique. For example: 1472215955. (Don't worry, you can't recover the accounts by brute force :P)
 
 <p><center><img src="http://i.imgur.com/ejldGKW.png"></center></p>
 
