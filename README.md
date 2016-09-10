@@ -7,12 +7,17 @@
 
 Dailymotion.com is a video hosting service that is similar to Youtube.
 Users can upload their videos, and get a share of the ad revenue generated when said videos are viewed.
+The niche of the project is that Youtube requires several extra steps to enable monetization, while Dailymotion only ask that you verify the email account to the account.
 
 Sometime has passed since this became popular, now I can release this project for my portfolio.
 
-Professionally, I have moved away from using <a href="https://docs.python.org/2/library/tkinter.html">Tkinter</a> since it is a pain in the ass and outdated. Not to mention it is very unstable when using threads (Yes, I know about mtTkinter). <i>I could go on</i>...
-
-PyQt is my favorite toolkit to save time with design. However, I was away from my desktop when I developed this GUI.
+# Demostrated in this project
+- Understanding of the MVC model. (With some real world lessons learned along the way)
+- Use of Tkinter and understanding of mainloop.
+- Image manipulation using PiL module.
+- Browser automation with PhantomJS and Firefox Selenium Webdriver.
+- SOCKS proxy with Tor.
+- Mix of Procedure and Object Orinted Paradigms.
 
 <center>
 # Motivation:
